@@ -35,6 +35,12 @@ menu systemu:
   + trakcja, czasy i kamery oraz opis słowny kierunku zmian
     
 
+## Sources:
+
+git opensource projects to build connection between telegram API client during a call with video stream instead of internal camera from streaming protocoll RTMP, RTSP
+
+
+
 
 ## voice control in smart home assitants
 
