@@ -38,7 +38,7 @@ menu systemu:
 ## Sources:
 
 git opensource projects to build connection between telegram API client during a call with video stream instead of internal camera from streaming protocoll RTMP, RTSP
-
+assistant based on telegram messenger API to talk with assistant by voice to control devices, cameras, robots, computers in real time
 
 
 
