@@ -1,4 +1,11 @@
-# www.vococam.com - voco.cam 
+# voice-controlled camera [voco.camera](http://www.voco.camera)
+
+
+Imagine a voice-controlled #camera and #object #detection in your chat...
+#VocoCamera responds within seconds. Receive instant notification on your device, along with a video clip and vocal summary of the event. Wherever you are, you can be sure that you are informed and empowered to act.
+The device processes data offline, and a web interface is also available. Please contact me for details.
+
+
 
 vo co cam - voice-controlled camera - kamera sterowana głosem
 
